@@ -1,0 +1,11 @@
+
+:root{
+    --container-max-width: 1024px;
+}
+
+.container {
+    max-width: var(--container-max-width);
+    margin: 1rem auto;
+    padding: 0 10px 1rem;
+    width: 100%;
+}
