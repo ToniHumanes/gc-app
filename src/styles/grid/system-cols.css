@@ -7,5 +7,5 @@
     max-width: var(--container-max-width);
     margin: 1rem auto;
     padding: 0 10px 1rem;
-    width: 100%;
+    width: calc(100% - 20px);
 }

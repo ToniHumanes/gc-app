@@ -1,9 +1,12 @@
 
 @import './vars/colors.css';
+@import './vars/fonts.css';
 @import './vars/fontsizes.css';
 @import './vars/breakpoints.css';
 
 @import './generic/normalize.css';
+
+@import './elements/elements.css';
 
 @import './grid/system-cols.css';
 

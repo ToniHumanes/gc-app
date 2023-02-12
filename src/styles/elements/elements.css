@@ -1,0 +1,15 @@
+
+
+html, body{
+    width: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-nunito);
+}
+
+app-root{
+    flex-grow: 1;
+}

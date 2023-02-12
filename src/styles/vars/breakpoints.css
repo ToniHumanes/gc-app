@@ -2,7 +2,7 @@
 
 :root{
   --breakpoint-xs: 0,
-  --breakpoint-xssm: 480px,
-  --breakpoint-xsmd: 768px,
-  --breakpoint-xslg: 1024px
+  --breakpoint-sm: 480px,
+  --breakpoint-md: 768px,
+  --breakpoint-lg: 1024px
 }
